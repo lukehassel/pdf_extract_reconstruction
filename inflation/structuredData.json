@@ -1,0 +1,3152 @@
+{
+  "version": {
+    "json_export": "171",
+    "page_segmentation": "52",
+    "schema": "1.0.0",
+    "structure": "1.939.0",
+    "table_structure": "5"
+  },
+  "extended_metadata": {
+    "ID_instance": "36 38 20 43 33 20 41 31 20 39 36 20 37 43 20 37 41 20 46 30 20 34 37 20 42 36 20 41 39 20 30 46 20 33 32 20 33 35 20 34 44 20 44 32 20 42 42 20 ",
+    "ID_permanent": "37 36 20 43 30 20 42 36 20 32 32 20 37 32 20 42 32 20 42 32 20 31 31 20 30 41 20 30 30 20 36 37 20 34 35 20 38 42 20 36 42 20 43 36 20 32 33 20 ",
+    "pdf_version": "2.0",
+    "pdfa_compliance_level": "",
+    "is_encrypted": false,
+    "has_acroform": true,
+    "is_digitally_signed": true,
+    "pdfua_compliance_level": "",
+    "page_count": 3,
+    "has_embedded_files": false,
+    "is_certified": true,
+    "is_XFA": false,
+    "language": "en-US"
+  },
+  "elements": [
+    {
+      "Bounds": [
+        57.600006103515625,
+        699.3000030517578,
+        554.3999938964844,
+        791.3000030517578
+      ],
+      "ClipBounds": [
+        57.600006103515625,
+        699.3000030517578,
+        554.3999938964844,
+        791.3000030517578
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Figure",
+      "attributes": {
+        "BBox": [
+          57.59769999999844,
+          699.3639999999723,
+          554.2569999999832,
+          791.1599999999744
+        ]
+      }
+    },
+    {
+      "Bounds": [
+        440.5800018310547,
+        688.0536041259766,
+        558.018798828125,
+        697.5072021484375
+      ],
+      "ClipBounds": [
+        440.5800018310547,
+        688.0536041259766,
+        558.018798828125,
+        697.5072021484375
+      ],
+      "Font": {
+        "alt_family_name": "Titlingmes New Roman PSMT",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Titlingmes New Roman PSMT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPSMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/P",
+      "Text": "UpdatedDecember 28, 2020 ",
+      "TextSize": 10.399993896484375,
+      "attributes": {
+        "LineHeight": 12.5,
+        "SpaceAfter": 3.5,
+        "TextAlign": "End"
+      }
+    },
+    {
+      "Bounds": [
+        57.67500305175781,
+        667.1002044677734,
+        372.4108428955078,
+        683.5537261962891
+      ],
+      "ClipBounds": [
+        57.67500305175781,
+        667.1002044677734,
+        372.4108428955078,
+        683.5537261962891
+      ],
+      "Font": {
+        "alt_family_name": "Titlingmes New Roman PS",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Titlingmes New Roman PS",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPS-BoldMT",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Title",
+      "Text": "Introduction to U.S. Economy: Inflation ",
+      "TextSize": 18.425003051757812,
+      "attributes": {
+        "LineHeight": 22.125,
+        "SpaceAfter": 9.5
+      }
+    },
+    {
+      "Bounds": [
+        57.67500305175781,
+        643.3002471923828,
+        166.05487060546875,
+        655.1120758056641
+      ],
+      "ClipBounds": [
+        57.67500305175781,
+        643.3002471923828,
+        166.05487060546875,
+        655.1120758056641
+      ],
+      "Font": {
+        "alt_family_name": "Gill Sans",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Gill Sans MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ABCDEE+GillSansMT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect[2]/H1",
+      "Text": "What Is Inflation? ",
+      "TextSize": 12.824996948242188,
+      "attributes": {
+        "LineHeight": 15.375
+      }
+    },
+    {
+      "Bounds": [
+        57.67500305175781,
+        578.3536071777344,
+        298.3800048828125,
+        643.0675964355469
+      ],
+      "ClipBounds": [
+        57.67500305175781,
+        578.3536071777344,
+        298.3800048828125,
+        643.0675964355469
+      ],
+      "Kids": [
+        {
+          "Bounds": [
+            57.67500305175781,
+            633.6036071777344,
+            94.81340026855469,
+            643.0675964355469
+          ],
+          "ClipBounds": [
+            57.67500305175781,
+            633.6036071777344,
+            94.81340026855469,
+            643.0675964355469
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PS",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PS",
+            "font_type": "TrueType",
+            "italic": true,
+            "monospaced": false,
+            "name": "TimesNewRomanPS-ItalicMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 0,
+          "Path": "//Document/Sect[2]/P/Span",
+          "Text": "Inflation",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            96.125,
+            633.6036071777344,
+            281.22412109375,
+            643.0572052001953
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 0,
+          "Path": "//Document/Sect[2]/P",
+          "Text": "is definedas a generalincreasein the price of goods andservices across theeconomy, or, in otherwords, a generaldecrease in the value of money.Conversely, deflation is a generaldecrease in the price ofgoods and services across the economy, or a generalincreasein the value of money. ",
+          "TextSize": 10.399993896484375
+        }
+      ],
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect[2]/P",
+      "attributes": {
+        "LineHeight": 11.125,
+        "SpaceAfter": 11.375
+      }
+    },
+    {
+      "Bounds": [
+        57.67500305175781,
+        456.63360595703125,
+        300.9310760498047,
+        565.377197265625
+      ],
+      "ClipBounds": [
+        57.67500305175781,
+        456.63360595703125,
+        300.9310760498047,
+        565.377197265625
+      ],
+      "Kids": [
+        {
+          "Bounds": [
+            57.67500305175781,
+            555.9235992431641,
+            294.54547119140625,
+            565.377197265625
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 0,
+          "Path": "//Document/Sect[2]/P[2]",
+          "Text": "As inflation occurs, individuals can purchase fewer goods and services with thesame amount ofmoney. Forthis reason, an individualwould need about $304in 2020 to purchase the same amountof goods andservices as $100 would have purchasedin 1980. Measures ofinflation are used to adjust moneyfigures to keeppurchasing power constant overtime, allowing formore accurate comparisons across disparate time periods. Monetary figures thathave been adjusted forinflation are referred to as ",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            237.10000610351562,
+            467.83360290527344,
+            254.37440490722656,
+            477.297607421875
+          ],
+          "ClipBounds": [
+            237.10000610351562,
+            467.83360290527344,
+            254.37440490722656,
+            477.297607421875
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PS",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PS",
+            "font_type": "TrueType",
+            "italic": true,
+            "monospaced": false,
+            "name": "TimesNewRomanPS-ItalicMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 0,
+          "Path": "//Document/Sect[2]/P[2]/Span",
+          "Text": "real",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            253.9199981689453,
+            467.83360290527344,
+            291.0791931152344,
+            477.2872009277344
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 0,
+          "Path": "//Document/Sect[2]/P[2]",
+          "Text": ",and non-inflation-adjustedfigures are referred to as ",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            233.10000610351562,
+            456.63360595703125,
+            266.3800048828125,
+            466.09759521484375
+          ],
+          "ClipBounds": [
+            233.10000610351562,
+            456.63360595703125,
+            266.3800048828125,
+            466.09759521484375
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PS",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PS",
+            "font_type": "TrueType",
+            "italic": true,
+            "monospaced": false,
+            "name": "TimesNewRomanPS-ItalicMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 0,
+          "Path": "//Document/Sect[2]/P[2]/Span[2]",
+          "Text": "nominal",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            266.75,
+            456.63360595703125,
+            271.9499969482422,
+            466.0872039794922
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 0,
+          "Path": "//Document/Sect[2]/P[2]",
+          "Text": ". ",
+          "TextSize": 10.399993896484375
+        }
+      ],
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect[2]/P[2]",
+      "attributes": {
+        "LineHeight": 11,
+        "SpaceAfter": 6.25
+      }
+    },
+    {
+      "Bounds": [
+        57.67500305175781,
+        434.3002471923828,
+        175.1531982421875,
+        446.11207580566406
+      ],
+      "ClipBounds": [
+        57.67500305175781,
+        434.3002471923828,
+        175.1531982421875,
+        446.11207580566406
+      ],
+      "Font": {
+        "alt_family_name": "Gill Sans",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Gill Sans MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ABCDEE+GillSansMT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect[3]/H1",
+      "Text": "Measuring Inflation ",
+      "TextSize": 12.824996948242188,
+      "attributes": {
+        "LineHeight": 15.375
+      }
+    },
+    {
+      "Bounds": [
+        57.67500305175781,
+        302.8536071777344,
+        301.1612854003906,
+        433.23719787597656
+      ],
+      "ClipBounds": [
+        57.67500305175781,
+        302.8536071777344,
+        301.1612854003906,
+        433.23719787597656
+      ],
+      "Font": {
+        "alt_family_name": "Titlingmes New Roman PSMT",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Titlingmes New Roman PSMT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPSMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect[3]/P",
+      "Text": "The rate ofinflation can be measured byobservingchanges in the averageprice ofa consistent set of goods and services, oftenreferred to as a market basket.Inflationis generally measured using a price index, such as the ConsumerPrice Index(CPI). A price indexis constructed by dividing the price ofa market basket in a given year by the price ofthe same basketofgoods in a base year.The rate ofinflation is then measuredby calculating the percentagechange in the price indexacross different periods. Forexample,the CPI was about 257in November 2019 and about260in November2020, which amounts to an inflation rate ofabout 1.2% overthis 12-month period. ",
+      "TextSize": 10.399993896484375,
+      "attributes": {
+        "LineHeight": 11,
+        "SpaceAfter": 9.125
+      }
+    },
+    {
+      "Bounds": [
+        57.67500305175781,
+        281.1080017089844,
+        216.11892700195312,
+        290.6864013671875
+      ],
+      "ClipBounds": [
+        57.67500305175781,
+        281.1080017089844,
+        216.11892700195312,
+        290.6864013671875
+      ],
+      "Font": {
+        "alt_family_name": "Gill Sans",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Gill Sans MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ABCDEE+GillSansMT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect[3]/Sect/H2",
+      "Text": "Alternative Measures of Inflation ",
+      "TextSize": 10.399993896484375,
+      "attributes": {
+        "LineHeight": 12.5
+      }
+    },
+    {
+      "Bounds": [
+        57.67500305175781,
+        93.85360717773438,
+        300.4886016845703,
+        279.48719787597656
+      ],
+      "ClipBounds": [
+        57.67500305175781,
+        93.85360717773438,
+        300.4886016845703,
+        279.48719787597656
+      ],
+      "Font": {
+        "alt_family_name": "Titlingmes New Roman PSMT",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Titlingmes New Roman PSMT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPSMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect[3]/Sect/P",
+      "Text": "Alternativeprice indices will use different goods within theirmarket baskets andare generally usedfor different purposes. Forexample, the CPI includes consumergoods and services typically purchasedby households, which is often used to adjust household incomes forinflation over time. By contrast, thegross domestic product(GDP) deflator, which is generally usedto adjust GDP for inflation overtime, measures inflation for allof the finalgoods and services producedin the UnitedStates. There are a number of additionalmeasures ofinflation,including the Producer Price Index, Employment Cost Index,Personal ConsumptionExpenditures Index, and Import/Export Price Index. Different inflation measures are calculated differently.Forexample, the CPI uses a (mostly)fixed basket of goods and services, whereas the GDP deflator allows the compositionofits market basketto change with spendingpatterns fromperiod to period. ",
+      "TextSize": 10.399993896484375,
+      "attributes": {
+        "LineHeight": 11,
+        "SpaceAfter": 11.625
+      }
+    },
+    {
+      "Bounds": [
+        57.67500305175781,
+        49.80360412597656,
+        557.9931945800781,
+        653.4571990966797
+      ],
+      "ClipBounds": [
+        57.67500305175781,
+        49.80360412597656,
+        557.9931945800781,
+        653.4571990966797
+      ],
+      "Kids": [
+        {
+          "Bounds": [
+            57.67500305175781,
+            49.80360412597656,
+            293.1116027832031,
+            80.8822021484375
+          ],
+          "ClipBounds": [
+            57.67500305175781,
+            49.80360412597656,
+            293.1116027832031,
+            80.8822021484375
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 0,
+          "Path": "//Document/Sect[3]/Sect/P[2]/ParagraphSpan",
+          "Text": "Additionally,within a specific price index, researchers often make separate calculations forso-called ",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            57.67500305175781,
+            49.80360412597656,
+            282.7364044189453,
+            70.49259948730469
+          ],
+          "ClipBounds": [
+            57.67500305175781,
+            49.80360412597656,
+            282.7364044189453,
+            70.49259948730469
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PS",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PS",
+            "font_type": "TrueType",
+            "italic": true,
+            "monospaced": false,
+            "name": "TimesNewRomanPS-ItalicMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 0,
+          "Path": "//Document/Sect[3]/Sect/P[2]/ParagraphSpan/Span",
+          "Text": "headline inflation",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            57.67500305175781,
+            49.80360412597656,
+            293.1116027832031,
+            80.8822021484375
+          ],
+          "ClipBounds": [
+            57.67500305175781,
+            49.80360412597656,
+            293.1116027832031,
+            80.8822021484375
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 0,
+          "Path": "//Document/Sect[3]/Sect/P[2]/ParagraphSpan",
+          "Text": "and ",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            112.94999694824219,
+            49.80360412597656,
+            167.726806640625,
+            59.26759338378906
+          ],
+          "ClipBounds": [
+            112.94999694824219,
+            49.80360412597656,
+            167.726806640625,
+            59.26759338378906
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PS",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PS",
+            "font_type": "TrueType",
+            "italic": true,
+            "monospaced": false,
+            "name": "TimesNewRomanPS-ItalicMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 0,
+          "Path": "//Document/Sect[3]/Sect/P[2]/ParagraphSpan/Span[2]",
+          "Text": "core inflation",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            57.67500305175781,
+            49.80360412597656,
+            293.1116027832031,
+            80.8822021484375
+          ],
+          "ClipBounds": [
+            57.67500305175781,
+            49.80360412597656,
+            293.1116027832031,
+            80.8822021484375
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 0,
+          "Path": "//Document/Sect[3]/Sect/P[2]/ParagraphSpan",
+          "Text": ", as seenin ",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            209.22000122070312,
+            49.80360412597656,
+            249.5399932861328,
+            62.05299377441406
+          ],
+          "ClipBounds": [
+            209.22000122070312,
+            49.80360412597656,
+            249.5399932861328,
+            62.05299377441406
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PS",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PS",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPS-BoldMT",
+            "subset": false,
+            "weight": 700
+          },
+          "HasClip": true,
+          "Page": 0,
+          "Path": "//Document/Sect[3]/Sect/P[2]/ParagraphSpan/Reference",
+          "Text": "Figure 1",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            57.67500305175781,
+            49.80360412597656,
+            293.1116027832031,
+            80.8822021484375
+          ],
+          "ClipBounds": [
+            57.67500305175781,
+            49.80360412597656,
+            293.1116027832031,
+            80.8822021484375
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 0,
+          "Path": "//Document/Sect[3]/Sect/P[2]/ParagraphSpan",
+          "Text": ".Headline ",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            314.0,
+            578.3536071777344,
+            557.9931945800781,
+            653.4571990966797
+          ],
+          "ClipBounds": [
+            314.0,
+            578.3536071777344,
+            557.9931945800781,
+            653.4571990966797
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 0,
+          "Path": "//Document/Sect[3]/Sect/P[2]/ParagraphSpan[2]",
+          "Text": "inflation includes the fullset ofgoods and services within the basketofgoods, whereas core inflationexcludes energy and food prices fromthe basket of goods. Core inflation is often used byresearchers in place ofheadline inflation due to the volatile nature ofthe price offood andenergy. However, headline inflationcanprovide a more accurate senseofthe price changes actually facedby individuals. ",
+          "TextSize": 10.399993896484375
+        }
+      ],
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect[3]/Sect/P[2]",
+      "attributes": {
+        "LineHeight": 10.75,
+        "SpaceAfter": 10.125
+      }
+    },
+    {
+      "Bounds": [
+        314.0,
+        556.7619934082031,
+        449.9796142578125,
+        565.6036071777344
+      ],
+      "ClipBounds": [
+        314.0,
+        556.7619934082031,
+        449.9796142578125,
+        565.6036071777344
+      ],
+      "Font": {
+        "alt_family_name": "Gill Sans",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Gill Sans MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ABCDEE+GillSansMT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect[3]/Sect/P[3]",
+      "Text": "Figure 1 Annual Inflation Rate ",
+      "TextSize": 9.600006103515625,
+      "attributes": {
+        "LineHeight": 11.5,
+        "SpaceAfter": 9.875
+      }
+    },
+    {
+      "Bounds": [
+        312.0843200683594,
+        398.48431396484375,
+        554.845703125,
+        552.7835998535156
+      ],
+      "ClipBounds": [
+        312.0843200683594,
+        398.48431396484375,
+        554.845703125,
+        552.7835998535156
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect[3]/Sect/Figure",
+      "attributes": {
+        "BBox": [
+          312.22699999999895,
+          398.5359999999928,
+          554.7369999999937,
+          551.289999999979
+        ]
+      }
+    },
+    {
+      "Bounds": [
+        314.0,
+        385.5760040283203,
+        452.95355224609375,
+        393.68080139160156
+      ],
+      "ClipBounds": [
+        314.0,
+        385.5760040283203,
+        452.95355224609375,
+        393.68080139160156
+      ],
+      "Kids": [
+        {
+          "Bounds": [
+            314.0,
+            385.5760040283203,
+            348.3815612792969,
+            393.68080139160156
+          ],
+          "ClipBounds": [
+            314.0,
+            385.5760040283203,
+            348.3815612792969,
+            393.68080139160156
+          ],
+          "Font": {
+            "alt_family_name": "Gill Sans",
+            "embedded": true,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Gill Sans MT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "ABCDEE+GillSansMT-Bold",
+            "subset": true,
+            "weight": 700
+          },
+          "HasClip": true,
+          "Page": 0,
+          "Path": "//Document/Sect[3]/Sect/P[4]/Span",
+          "Text": "Source: ",
+          "TextSize": 8.800003051757812
+        },
+        {
+          "Bounds": [
+            347.6499938964844,
+            385.5760040283203,
+            448.5419464111328,
+            393.68080139160156
+          ],
+          "Font": {
+            "alt_family_name": "Gill Sans",
+            "embedded": true,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Gill Sans MT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "ABCDEE+GillSansMT",
+            "subset": true,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 0,
+          "Path": "//Document/Sect[3]/Sect/P[4]",
+          "Text": "Bureau of Economic Analysis. ",
+          "TextSize": 8.800003051757812
+        }
+      ],
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect[3]/Sect/P[4]",
+      "attributes": {
+        "LineHeight": 10.5
+      }
+    },
+    {
+      "Bounds": [
+        314.0,
+        362.3560028076172,
+        524.6843414306641,
+        381.6607971191406
+      ],
+      "ClipBounds": [
+        314.0,
+        362.3560028076172,
+        524.6843414306641,
+        381.6607971191406
+      ],
+      "Kids": [
+        {
+          "Bounds": [
+            314.0,
+            373.5559997558594,
+            343.6119689941406,
+            381.6607971191406
+          ],
+          "ClipBounds": [
+            314.0,
+            373.5559997558594,
+            343.6119689941406,
+            381.6607971191406
+          ],
+          "Font": {
+            "alt_family_name": "Gill Sans",
+            "embedded": true,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Gill Sans MT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "ABCDEE+GillSansMT-Bold",
+            "subset": true,
+            "weight": 700
+          },
+          "HasClip": true,
+          "Page": 0,
+          "Path": "//Document/Sect[3]/Sect/P[5]/Span",
+          "Text": "Notes: ",
+          "TextSize": 8.800003051757812
+        },
+        {
+          "Bounds": [
+            342.8500061035156,
+            373.5559997558594,
+            524.6843414306641,
+            381.6607971191406
+          ],
+          "Font": {
+            "alt_family_name": "Gill Sans",
+            "embedded": true,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Gill Sans MT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "ABCDEE+GillSansMT",
+            "subset": true,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 0,
+          "Path": "//Document/Sect[3]/Sect/P[5]",
+          "Text": "Annualpercentagechangeas measured by Personal Consumption Expenditures Index. ",
+          "TextSize": 8.800003051757812
+        }
+      ],
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect[3]/Sect/P[5]",
+      "attributes": {
+        "LineHeight": 11.125,
+        "SpaceAfter": 10
+      }
+    },
+    {
+      "Bounds": [
+        314.0,
+        339.55799865722656,
+        490.81031799316406,
+        349.1363983154297
+      ],
+      "ClipBounds": [
+        314.0,
+        339.55799865722656,
+        490.81031799316406,
+        349.1363983154297
+      ],
+      "Font": {
+        "alt_family_name": "Gill Sans",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Gill Sans MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ABCDEE+GillSansMT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect[3]/Sect[2]/H2",
+      "Text": "Complications in MeasuringInflation ",
+      "TextSize": 10.399993896484375,
+      "attributes": {
+        "LineHeight": 12.5
+      }
+    },
+    {
+      "Bounds": [
+        314.0,
+        185.95359802246094,
+        557.5055236816406,
+        338.7572021484375
+      ],
+      "ClipBounds": [
+        314.0,
+        185.95359802246094,
+        557.5055236816406,
+        338.7572021484375
+      ],
+      "Font": {
+        "alt_family_name": "Titlingmes New Roman PSMT",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Titlingmes New Roman PSMT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPSMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect[3]/Sect[2]/P",
+      "Text": "The fundamentalconceptbehindinflation is to measure changes in the price of the same goods and services over time. However,in reality, this is nearly impossible fortwo reasons. First, the quality ofgoods and services change over time. As such, some portionofincreasingprices overtime is due to improvements in quality rather than inflation. Second, newproducts are introducedinto the marketplace overtime that are fundamentally differentthanany previously available products andare only slowly incorporatedinto price indices with fixed baskets. Statisticalagencies try toadjustdatato accountfor these factors,because, ifthese complications are notcorrectly accounted for, measured inflationwouldbe inaccurate and most likely overstated. ",
+      "TextSize": 10.399993896484375,
+      "attributes": {
+        "LineHeight": 11,
+        "SpaceAfter": 7.125
+      }
+    },
+    {
+      "Bounds": [
+        314.0,
+        162.82025146484375,
+        426.5264587402344,
+        174.632080078125
+      ],
+      "ClipBounds": [
+        314.0,
+        162.82025146484375,
+        426.5264587402344,
+        174.632080078125
+      ],
+      "Font": {
+        "alt_family_name": "Gill Sans",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Gill Sans MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ABCDEE+GillSansMT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect[4]/H1",
+      "Text": "Causes of Inflation ",
+      "TextSize": 12.824996948242188,
+      "attributes": {
+        "LineHeight": 15.375
+      }
+    },
+    {
+      "Bounds": [
+        314.0,
+        75.42860412597656,
+        550.1952056884766,
+        162.5572052001953
+      ],
+      "ClipBounds": [
+        314.0,
+        75.42860412597656,
+        550.1952056884766,
+        162.5572052001953
+      ],
+      "Kids": [
+        {
+          "Bounds": [
+            314.0,
+            153.10360717773438,
+            548.5615997314453,
+            162.5572052001953
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 0,
+          "Path": "//Document/Sect[4]/P",
+          "Text": "Inflation is largely the result oftwo differentphenomena, which are often referred to as ",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            435.77000427246094,
+            141.90359497070312,
+            487.4736022949219,
+            151.3675994873047
+          ],
+          "ClipBounds": [
+            435.77000427246094,
+            141.90359497070312,
+            487.4736022949219,
+            151.3675994873047
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PS",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PS",
+            "font_type": "TrueType",
+            "italic": true,
+            "monospaced": false,
+            "name": "TimesNewRomanPS-ItalicMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 0,
+          "Path": "//Document/Sect[4]/P/Span",
+          "Text": "demand-pull",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            488.6300048828125,
+            141.90359497070312,
+            504.2091979980469,
+            151.35719299316406
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 0,
+          "Path": "//Document/Sect[4]/P",
+          "Text": "and",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            505.4499969482422,
+            141.90359497070312,
+            547.68359375,
+            151.3675994873047
+          ],
+          "ClipBounds": [
+            505.4499969482422,
+            141.90359497070312,
+            547.68359375,
+            151.3675994873047
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PS",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PS",
+            "font_type": "TrueType",
+            "italic": true,
+            "monospaced": false,
+            "name": "TimesNewRomanPS-ItalicMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 0,
+          "Path": "//Document/Sect[4]/P/Span[2]",
+          "Text": "cost-push ",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            314.0,
+            130.70359802246094,
+            387.92320251464844,
+            140.15719604492188
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 0,
+          "Path": "//Document/Sect[4]/P",
+          "Text": "inflation. Demand-pullinflation occurs whendemand for goods andservices within the economy exceeds the ",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            314.0,
+            109.06280517578125,
+            537.2984008789062,
+            120.66920471191406
+          ],
+          "ClipBounds": [
+            314.0,
+            109.06280517578125,
+            537.2984008789062,
+            120.66920471191406
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": true,
+            "encoding": "Identity-H",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "CIDFontType2",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 0,
+          "Path": "//Document/Sect[4]/P/Span[3]",
+          "Text": "economy\u2019scapacity to produce goodsandservices.As ",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            314.0,
+            97.85360717773438,
+            492.6199951171875,
+            107.30720520019531
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 0,
+          "Path": "//Document/Sect[4]/P",
+          "Text": "demand exceeds supply within theeconomy",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            493.4499969482422,
+            97.85360717773438,
+            508.4676055908203,
+            107.30720520019531
+          ],
+          "ClipBounds": [
+            493.4499969482422,
+            97.85360717773438,
+            508.4676055908203,
+            107.30720520019531
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": true,
+            "encoding": "Identity-H",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "CIDFontType2",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 0,
+          "Path": "//Document/Sect[4]/P/Span[4]",
+          "Text": "\u2014\u201c",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            507.8500061035156,
+            97.85360717773438,
+            547.6300048828125,
+            107.30720520019531
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 0,
+          "Path": "//Document/Sect[4]/P",
+          "Text": "toomuch ",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            314.0,
+            86.63279724121094,
+            450.97999572753906,
+            98.23919677734375
+          ],
+          "ClipBounds": [
+            314.0,
+            86.63279724121094,
+            450.97999572753906,
+            98.23919677734375
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": true,
+            "encoding": "Identity-H",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "CIDFontType2",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 0,
+          "Path": "//Document/Sect[4]/P/Span[5]",
+          "Text": "money chasingtoo fewgoods\u201d\u2014",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            450.1699981689453,
+            86.65359497070312,
+            470.7828063964844,
+            96.10719299316406
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 0,
+          "Path": "//Document/Sect[4]/P",
+          "Text": "thereis upward pressure placed on prices, resultingin rising inflation. ",
+          "TextSize": 10.399993896484375
+        }
+      ],
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect[4]/P",
+      "attributes": {
+        "LineHeight": 11.125,
+        "SpaceAfter": 10.375
+      }
+    },
+    {
+      "Bounds": [
+        57.67500305175781,
+        42.603607177734375,
+        546.0828857421875,
+        742.3571929931641
+      ],
+      "ClipBounds": [
+        57.67500305175781,
+        42.603607177734375,
+        546.0828857421875,
+        742.3571929931641
+      ],
+      "Kids": [
+        {
+          "Bounds": [
+            314.0,
+            42.603607177734375,
+            546.0828857421875,
+            63.2572021484375
+          ],
+          "ClipBounds": [
+            314.0,
+            42.603607177734375,
+            546.0828857421875,
+            63.2572021484375
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 0,
+          "Path": "//Document/Sect[4]/P[2]/ParagraphSpan",
+          "Text": "Cost-push inflationoccurs whenthe price ofinputgoods and services increases. The classic example of cost-push ",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            57.67500305175781,
+            633.6036071777344,
+            297.95799255371094,
+            742.3571929931641
+          ],
+          "ClipBounds": [
+            57.67500305175781,
+            633.6036071777344,
+            297.95799255371094,
+            742.3571929931641
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 1,
+          "Path": "//Document/Sect[4]/P[2]/ParagraphSpan[2]",
+          "Text": "inflation is the result ofan oilshock,which sharply decreases thesupply of oiland otherpetroleumproducts. The decrease in oilsupplies increases theprice ofoiland petroleumproducts. Petroleumproducts are an input good for a significant portionofgoods andservices across the economy, andas theprice ofthis important input good increases, sodoes the price ofthe finalgoods andservices, resulting in inflation. Cost-pushinflation results in only a temporary increase in inflation unless accommodatedby monetary policy. ",
+          "TextSize": 10.399993896484375
+        }
+      ],
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect[4]/P[2]",
+      "attributes": {
+        "LineHeight": 11.125,
+        "SpaceAfter": 10.625
+      }
+    },
+    {
+      "Bounds": [
+        57.67500305175781,
+        535.1036071777344,
+        301.5711975097656,
+        621.4272003173828
+      ],
+      "ClipBounds": [
+        57.67500305175781,
+        535.1036071777344,
+        301.5711975097656,
+        621.4272003173828
+      ],
+      "Font": {
+        "alt_family_name": "Titlingmes New Roman PSMT",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Titlingmes New Roman PSMT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPSMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "Page": 1,
+      "Path": "//Document/Sect[4]/P[3]",
+      "Text": "Changes in inflation expectations can also cause changes in actualinflation.Individuals formexpectations around the future rate ofinflation and incorporate those expectations when setting prices at the firm levelor when bargaining for wages as a worker. Forexample, if the generalconsensus is that prices willincrease 2% in the next year, businesses will want to increaseprices by at least2%,and workers will want at least a 2% raise. ",
+      "TextSize": 10.399993896484375,
+      "attributes": {
+        "LineHeight": 11,
+        "SpaceAfter": 7
+      }
+    },
+    {
+      "Bounds": [
+        57.67500305175781,
+        511.9702453613281,
+        260.15907287597656,
+        523.7820739746094
+      ],
+      "ClipBounds": [
+        57.67500305175781,
+        511.9702453613281,
+        260.15907287597656,
+        523.7820739746094
+      ],
+      "Kids": [
+        {
+          "Bounds": [
+            57.67500305175781,
+            511.9702453613281,
+            68.88140869140625,
+            523.7820739746094
+          ],
+          "ClipBounds": [
+            57.67500305175781,
+            511.9702453613281,
+            68.88140869140625,
+            523.7820739746094
+          ],
+          "Font": {
+            "alt_family_name": "Gill Sans",
+            "embedded": true,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Gill Sans MT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "ABCDEE+GillSansMT-Bold",
+            "subset": true,
+            "weight": 700
+          },
+          "HasClip": true,
+          "Page": 1,
+          "Path": "//Document/Sect[5]/H1/Span",
+          "Text": "In",
+          "TextSize": 12.824996948242188
+        },
+        {
+          "Bounds": [
+            68.89999389648438,
+            511.9702453613281,
+            110.735107421875,
+            523.7820739746094
+          ],
+          "Font": {
+            "alt_family_name": "Gill Sans",
+            "embedded": true,
+            "encoding": "Identity-H",
+            "family_name": "Gill Sans MT",
+            "font_type": "CIDFontType2",
+            "italic": false,
+            "monospaced": false,
+            "name": "ABCDEE+GillSansMT-Bold",
+            "subset": true,
+            "weight": 700
+          },
+          "HasClip": true,
+          "Page": 1,
+          "Path": "//Document/Sect[5]/H1",
+          "Text": "flation\u2019",
+          "TextSize": 12.824996948242188
+        },
+        {
+          "Bounds": [
+            110.46580505371094,
+            511.9702453613281,
+            115.94209289550781,
+            523.7820739746094
+          ],
+          "ClipBounds": [
+            110.46580505371094,
+            511.9702453613281,
+            115.94209289550781,
+            523.7820739746094
+          ],
+          "Font": {
+            "alt_family_name": "Gill Sans",
+            "embedded": true,
+            "encoding": "Identity-H",
+            "family_name": "Gill Sans MT",
+            "font_type": "CIDFontType2",
+            "italic": false,
+            "monospaced": false,
+            "name": "ABCDEE+GillSansMT-Bold",
+            "subset": true,
+            "weight": 700
+          },
+          "HasClip": true,
+          "Page": 1,
+          "Path": "//Document/Sect[5]/H1/ExtraCharSpan",
+          "Text": "s",
+          "TextSize": 12.824996948242188
+        },
+        {
+          "Bounds": [
+            118.45579528808594,
+            511.9702453613281,
+            155.27638244628906,
+            523.7820739746094
+          ],
+          "Font": {
+            "alt_family_name": "Gill Sans",
+            "embedded": true,
+            "encoding": "Identity-H",
+            "family_name": "Gill Sans MT",
+            "font_type": "CIDFontType2",
+            "italic": false,
+            "monospaced": false,
+            "name": "ABCDEE+GillSansMT-Bold",
+            "subset": true,
+            "weight": 700
+          },
+          "HasClip": true,
+          "Page": 1,
+          "Path": "//Document/Sect[5]/H1",
+          "Text": "Impac",
+          "TextSize": 12.824996948242188
+        },
+        {
+          "Bounds": [
+            155.27639770507812,
+            511.9702453613281,
+            160.48342895507812,
+            523.7820739746094
+          ],
+          "ClipBounds": [
+            155.27639770507812,
+            511.9702453613281,
+            160.48342895507812,
+            523.7820739746094
+          ],
+          "Font": {
+            "alt_family_name": "Gill Sans",
+            "embedded": true,
+            "encoding": "Identity-H",
+            "family_name": "Gill Sans MT",
+            "font_type": "CIDFontType2",
+            "italic": false,
+            "monospaced": false,
+            "name": "ABCDEE+GillSansMT-Bold",
+            "subset": true,
+            "weight": 700
+          },
+          "HasClip": true,
+          "Page": 1,
+          "Path": "//Document/Sect[5]/H1/ExtraCharSpan[2]",
+          "Text": "t",
+          "TextSize": 12.824996948242188
+        },
+        {
+          "Bounds": [
+            163.2534942626953,
+            511.9702453613281,
+            170.87147521972656,
+            523.7820739746094
+          ],
+          "Font": {
+            "alt_family_name": "Gill Sans",
+            "embedded": true,
+            "encoding": "Identity-H",
+            "family_name": "Gill Sans MT",
+            "font_type": "CIDFontType2",
+            "italic": false,
+            "monospaced": false,
+            "name": "ABCDEE+GillSansMT-Bold",
+            "subset": true,
+            "weight": 700
+          },
+          "HasClip": true,
+          "Page": 1,
+          "Path": "//Document/Sect[5]/H1",
+          "Text": "o",
+          "TextSize": 12.824996948242188
+        },
+        {
+          "Bounds": [
+            171.24349975585938,
+            511.9702453613281,
+            178.7203826904297,
+            523.7820739746094
+          ],
+          "ClipBounds": [
+            171.24349975585938,
+            511.9702453613281,
+            178.7203826904297,
+            523.7820739746094
+          ],
+          "Font": {
+            "alt_family_name": "Gill Sans",
+            "embedded": true,
+            "encoding": "Identity-H",
+            "family_name": "Gill Sans MT",
+            "font_type": "CIDFontType2",
+            "italic": false,
+            "monospaced": false,
+            "name": "ABCDEE+GillSansMT-Bold",
+            "subset": true,
+            "weight": 700
+          },
+          "HasClip": true,
+          "Page": 1,
+          "Path": "//Document/Sect[5]/H1/ExtraCharSpan[3]",
+          "Text": "n",
+          "TextSize": 12.824996948242188
+        },
+        {
+          "Bounds": [
+            181.64450073242188,
+            511.9702453613281,
+            194.71307373046875,
+            523.7820739746094
+          ],
+          "Font": {
+            "alt_family_name": "Gill Sans",
+            "embedded": true,
+            "encoding": "Identity-H",
+            "family_name": "Gill Sans MT",
+            "font_type": "CIDFontType2",
+            "italic": false,
+            "monospaced": false,
+            "name": "ABCDEE+GillSansMT-Bold",
+            "subset": true,
+            "weight": 700
+          },
+          "HasClip": true,
+          "Page": 1,
+          "Path": "//Document/Sect[5]/H1",
+          "Text": "th",
+          "TextSize": 12.824996948242188
+        },
+        {
+          "Bounds": [
+            194.4311065673828,
+            511.9702453613281,
+            201.51052856445312,
+            523.7820739746094
+          ],
+          "ClipBounds": [
+            194.4311065673828,
+            511.9702453613281,
+            201.51052856445312,
+            523.7820739746094
+          ],
+          "Font": {
+            "alt_family_name": "Gill Sans",
+            "embedded": true,
+            "encoding": "Identity-H",
+            "family_name": "Gill Sans MT",
+            "font_type": "CIDFontType2",
+            "italic": false,
+            "monospaced": false,
+            "name": "ABCDEE+GillSansMT-Bold",
+            "subset": true,
+            "weight": 700
+          },
+          "HasClip": true,
+          "Page": 1,
+          "Path": "//Document/Sect[5]/H1/ExtraCharSpan[4]",
+          "Text": "e",
+          "TextSize": 12.824996948242188
+        },
+        {
+          "Bounds": [
+            204.0113067626953,
+            511.9702453613281,
+            253.8748016357422,
+            523.7820739746094
+          ],
+          "Font": {
+            "alt_family_name": "Gill Sans",
+            "embedded": true,
+            "encoding": "Identity-H",
+            "family_name": "Gill Sans MT",
+            "font_type": "CIDFontType2",
+            "italic": false,
+            "monospaced": false,
+            "name": "ABCDEE+GillSansMT-Bold",
+            "subset": true,
+            "weight": 700
+          },
+          "HasClip": true,
+          "Page": 1,
+          "Path": "//Document/Sect[5]/H1",
+          "Text": "Econom",
+          "TextSize": 12.824996948242188
+        },
+        {
+          "Bounds": [
+            253.61839294433594,
+            511.9702453613281,
+            260.15907287597656,
+            523.7820739746094
+          ],
+          "ClipBounds": [
+            253.61839294433594,
+            511.9702453613281,
+            260.15907287597656,
+            523.7820739746094
+          ],
+          "Font": {
+            "alt_family_name": "Gill Sans",
+            "embedded": true,
+            "encoding": "Identity-H",
+            "family_name": "Gill Sans MT",
+            "font_type": "CIDFontType2",
+            "italic": false,
+            "monospaced": false,
+            "name": "ABCDEE+GillSansMT-Bold",
+            "subset": true,
+            "weight": 700
+          },
+          "HasClip": true,
+          "Page": 1,
+          "Path": "//Document/Sect[5]/H1/ExtraCharSpan[5]",
+          "Text": "y",
+          "TextSize": 12.824996948242188
+        }
+      ],
+      "Lang": "en",
+      "Page": 1,
+      "Path": "//Document/Sect[5]/H1",
+      "attributes": {
+        "LineHeight": 15.375
+      }
+    },
+    {
+      "Bounds": [
+        57.67500305175781,
+        435.80360412597656,
+        301.2429962158203,
+        511.7071990966797
+      ],
+      "ClipBounds": [
+        57.67500305175781,
+        435.80360412597656,
+        301.2429962158203,
+        511.7071990966797
+      ],
+      "Font": {
+        "alt_family_name": "Titlingmes New Roman PSMT",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Titlingmes New Roman PSMT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPSMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "Page": 1,
+      "Path": "//Document/Sect[5]/P",
+      "Text": "Inflation tends to interfere with pricing mechanisms in the economy, resultingin individuals and businesses making less than optimalspending, saving, andinvestment decisions. Additionally, in the presenceofinflation, economic actors oftenengage in actions to protect themselves fromthe negative impacts ofinflation, diverting resources fromothermore productive activities. ",
+      "TextSize": 10.399993896484375,
+      "attributes": {
+        "LineHeight": 11.125,
+        "SpaceAfter": 10.5
+      }
+    },
+    {
+      "Bounds": [
+        57.67500305175781,
+        281.25360107421875,
+        300.752197265625,
+        423.627197265625
+      ],
+      "ClipBounds": [
+        57.67500305175781,
+        281.25360107421875,
+        300.752197265625,
+        423.627197265625
+      ],
+      "Font": {
+        "alt_family_name": "Titlingmes New Roman PSMT",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Titlingmes New Roman PSMT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPSMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "Page": 1,
+      "Path": "//Document/Sect[5]/P[2]",
+      "Text": "Ultimately, these inefficient decisions reduce incomes, economic growth,and living standards.Forthis reason, it is generally acceptedthatinflation should be kept lowto minimize these distortions in the economy. Some would argue that an inflationrate ofzero is optimal. However, a target ofzero inflation makes a period ofaccidental deflation more likely, and deflation is thought tobe even more costly thaninflation, as it can be associated with recessionary conditions. In an effort to balancethesetwo risks, policymakers, including theFederalReserve,often target a positive but lowinflation rate, generally around 2%, which reduces inefficiencies within the economy while protecting againstdeflation. ",
+      "TextSize": 10.399993896484375,
+      "attributes": {
+        "LineHeight": 11.125,
+        "SpaceAfter": 6.375
+      }
+    },
+    {
+      "Bounds": [
+        57.67500305175781,
+        258.9302520751953,
+        259.6814727783203,
+        270.74208068847656
+      ],
+      "ClipBounds": [
+        57.67500305175781,
+        258.9302520751953,
+        259.6814727783203,
+        270.74208068847656
+      ],
+      "Font": {
+        "alt_family_name": "Gill Sans",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Gill Sans MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ABCDEE+GillSansMT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "Page": 1,
+      "Path": "//Document/Sect[6]/H1",
+      "Text": "The Federal Reserve and Inflation ",
+      "TextSize": 12.824996948242188,
+      "attributes": {
+        "LineHeight": 15.375
+      }
+    },
+    {
+      "Bounds": [
+        57.67500305175781,
+        149.10360717773438,
+        301.7164001464844,
+        257.85719299316406
+      ],
+      "ClipBounds": [
+        57.67500305175781,
+        149.10360717773438,
+        301.7164001464844,
+        257.85719299316406
+      ],
+      "Kids": [
+        {
+          "Bounds": [
+            57.67500305175781,
+            248.40359497070312,
+            281.2438049316406,
+            257.85719299316406
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 1,
+          "Path": "//Document/Sect[6]/P",
+          "Text": "The FederalReserve has beencharged with promoting stable prices by statute sincethe late 1970s, largely as a result ofthe volatile and exceptionally highinflation experienced duringthe 1970s, as shownin ",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            228.08999633789062,
+            215.58360290527344,
+            268.4100036621094,
+            227.9499969482422
+          ],
+          "ClipBounds": [
+            228.08999633789062,
+            215.58360290527344,
+            268.4100036621094,
+            227.9499969482422
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PS",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PS",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPS-BoldMT",
+            "subset": false,
+            "weight": 700
+          },
+          "HasClip": true,
+          "Page": 1,
+          "Path": "//Document/Sect[6]/P/Reference",
+          "Reference": "Page 0",
+          "Text": "Figure 1",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            268.3500061035156,
+            215.58360290527344,
+            273.5500030517578,
+            225.03720092773438
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 1,
+          "Path": "//Document/Sect[6]/P",
+          "Text": ". Beginning in 2012, the FederalReserve began explicitly targeting a long-runinflation rate of2%. The Federal Reserve generally uses its ability to impact short-term interest rates tocombatdemand-pulland cost-pushinflation in an effort to decrease the volatility ofinflation andkeep inflation close to its target rate. ",
+          "TextSize": 10.399993896484375
+        }
+      ],
+      "Lang": "en",
+      "Page": 1,
+      "Path": "//Document/Sect[6]/P",
+      "attributes": {
+        "LineHeight": 11,
+        "SpaceAfter": 10.625
+      }
+    },
+    {
+      "Bounds": [
+        57.67500305175781,
+        61.82859802246094,
+        550.068115234375,
+        742.3571929931641
+      ],
+      "ClipBounds": [
+        57.67500305175781,
+        61.82859802246094,
+        550.068115234375,
+        742.3571929931641
+      ],
+      "Kids": [
+        {
+          "Bounds": [
+            57.67500305175781,
+            61.82859802246094,
+            301.07659912109375,
+            139.9499969482422
+          ],
+          "ClipBounds": [
+            57.67500305175781,
+            61.82859802246094,
+            301.07659912109375,
+            139.9499969482422
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 1,
+          "Path": "//Document/Sect[6]/P[2]/ParagraphSpan",
+          "Text": "As shown in ",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            107.85000610351562,
+            127.47360229492188,
+            148.17999267578125,
+            139.9499969482422
+          ],
+          "ClipBounds": [
+            107.85000610351562,
+            127.47360229492188,
+            148.17999267578125,
+            139.9499969482422
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PS",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PS",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPS-BoldMT",
+            "subset": false,
+            "weight": 700
+          },
+          "HasClip": true,
+          "Page": 1,
+          "Path": "//Document/Sect[6]/P[2]/ParagraphSpan/Reference",
+          "Text": "Figure 1",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            57.67500305175781,
+            61.82859802246094,
+            301.07659912109375,
+            139.9499969482422
+          ],
+          "ClipBounds": [
+            57.67500305175781,
+            61.82859802246094,
+            301.07659912109375,
+            139.9499969482422
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 1,
+          "Path": "//Document/Sect[6]/P[2]/ParagraphSpan",
+          "Text": ",beginning in the 1980s,the rate of core inflation,which excludes energyandfoodprices, begins to decrease, as does the volatility seenin the measure. Beginningin the late 1990s, the inflation rate remains relatively close to 2%, and the large swings in inflation, such as those seenduring the1970s,mostly disappear. The moderation ofinflation seensince the1970s, ",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            314.0,
+            700.0536041259766,
+            550.068115234375,
+            742.3571929931641
+          ],
+          "ClipBounds": [
+            314.0,
+            700.0536041259766,
+            550.068115234375,
+            742.3571929931641
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 1,
+          "Path": "//Document/Sect[6]/P[2]/ParagraphSpan[2]",
+          "Text": "save forthe brief period ofdeflationduringthe2007-2009 globalfinancialcrisis, has largelybeenattributedto the actions undertakenby theFederalReserveas partof its mandate to promote stable prices. ",
+          "TextSize": 10.399993896484375
+        }
+      ],
+      "Lang": "en",
+      "Page": 1,
+      "Path": "//Document/Sect[6]/P[2]",
+      "attributes": {
+        "LineHeight": 10.875,
+        "SpaceAfter": 10.5
+      }
+    },
+    {
+      "Bounds": [
+        314.0,
+        556.7236022949219,
+        557.5079956054688,
+        687.9071960449219
+      ],
+      "ClipBounds": [
+        314.0,
+        556.7236022949219,
+        557.5079956054688,
+        687.9071960449219
+      ],
+      "Font": {
+        "alt_family_name": "Titlingmes New Roman PSMT",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Titlingmes New Roman PSMT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPSMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "Page": 1,
+      "Path": "//Document/Sect[6]/P[3]",
+      "Text": "In August 2020,the FederalReserveamended its strategy to an inflation target that averages 2% overtime, meaning that if inflation runs below2% for a period, the Federal Reserve will use monetarypolicyto target an inflationrate above 2% forsome time. Inflation has run below2% fairly consistently since the financialcrisis, despite several notable periods ofquantitative easing and an 11-year expansion that ended in 2020. In response to thecurrent recession, the FederalReserve has indicated that it will keep the federalfunds at nearzero levels forthe foreseeable future, which, all else being equal, would stimulate economic activityand causeinflation to increase. ",
+      "TextSize": 10.399993896484375,
+      "attributes": {
+        "LineHeight": 11.125,
+        "SpaceAfter": 6.25
+      }
+    },
+    {
+      "Bounds": [
+        314.0,
+        534.4002532958984,
+        446.55909729003906,
+        546.2120819091797
+      ],
+      "ClipBounds": [
+        314.0,
+        534.4002532958984,
+        446.55909729003906,
+        546.2120819091797
+      ],
+      "Font": {
+        "alt_family_name": "Gill Sans",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Gill Sans MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ABCDEE+GillSansMT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "Page": 1,
+      "Path": "//Document/Sect[7]/H1",
+      "Text": "Adjusting for Inflation ",
+      "TextSize": 12.824996948242188,
+      "attributes": {
+        "LineHeight": 15.375
+      }
+    },
+    {
+      "Bounds": [
+        314.0,
+        501.45359802246094,
+        534.8316040039062,
+        533.3372039794922
+      ],
+      "ClipBounds": [
+        314.0,
+        501.45359802246094,
+        534.8316040039062,
+        533.3372039794922
+      ],
+      "Font": {
+        "alt_family_name": "Titlingmes New Roman PSMT",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Titlingmes New Roman PSMT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPSMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "Page": 1,
+      "Path": "//Document/Sect[7]/P",
+      "Text": "Comparing figures in realterms is often beneficialto observe actualchanges in purchasingpowerovertime ratherthan changes in the numberofdollars. ",
+      "TextSize": 10.399993896484375,
+      "attributes": {
+        "LineHeight": 11.125,
+        "SpaceAfter": 9.375
+      }
+    },
+    {
+      "Bounds": [
+        314.0,
+        480.69200134277344,
+        477.45472717285156,
+        489.5335998535156
+      ],
+      "ClipBounds": [
+        314.0,
+        480.69200134277344,
+        477.45472717285156,
+        489.5335998535156
+      ],
+      "Font": {
+        "alt_family_name": "Gill Sans",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Gill Sans MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ABCDEE+GillSansMT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "Page": 1,
+      "Path": "//Document/Sect[7]/P[2]",
+      "Text": "Figure 2. How to Adjust for Inflation ",
+      "TextSize": 9.600006103515625,
+      "attributes": {
+        "LineHeight": 11.5,
+        "SpaceAfter": 6.875
+      }
+    },
+    {
+      "Bounds": [
+        313.5843200683594,
+        457.13433837890625,
+        554.6456298828125,
+        478.4156799316406
+      ],
+      "ClipBounds": [
+        313.5843200683594,
+        457.13433837890625,
+        554.6456298828125,
+        478.4156799316406
+      ],
+      "Page": 1,
+      "Path": "//Document/Sect[7]/Figure",
+      "attributes": {
+        "BBox": [
+          313.7869999999966,
+          457.21399999999267,
+          554.4969999999739,
+          478.2129999999888
+        ]
+      }
+    },
+    {
+      "Bounds": [
+        314.0,
+        444.0260009765625,
+        368.0435485839844,
+        452.13079833984375
+      ],
+      "ClipBounds": [
+        314.0,
+        444.0260009765625,
+        368.0435485839844,
+        452.13079833984375
+      ],
+      "Kids": [
+        {
+          "Bounds": [
+            314.0,
+            444.0260009765625,
+            348.3815612792969,
+            452.13079833984375
+          ],
+          "Font": {
+            "alt_family_name": "Gill Sans",
+            "embedded": true,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Gill Sans MT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "ABCDEE+GillSansMT-Bold",
+            "subset": true,
+            "weight": 700
+          },
+          "HasClip": true,
+          "Page": 1,
+          "Path": "//Document/Sect[7]/P[3]",
+          "Text": "Source: ",
+          "TextSize": 8.800003051757812
+        },
+        {
+          "Bounds": [
+            347.6499938964844,
+            444.0260009765625,
+            368.0435485839844,
+            452.13079833984375
+          ],
+          "ClipBounds": [
+            347.6499938964844,
+            444.0260009765625,
+            368.0435485839844,
+            452.13079833984375
+          ],
+          "Font": {
+            "alt_family_name": "Gill Sans",
+            "embedded": true,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Gill Sans MT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "ABCDEE+GillSansMT",
+            "subset": true,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 1,
+          "Path": "//Document/Sect[7]/P[3]/Span",
+          "Text": "CRS. ",
+          "TextSize": 8.800003051757812
+        }
+      ],
+      "Lang": "en",
+      "Page": 1,
+      "Path": "//Document/Sect[7]/P[3]",
+      "attributes": {
+        "LineHeight": 10.5
+      }
+    },
+    {
+      "Bounds": [
+        314.0,
+        344.50360107421875,
+        557.1752014160156,
+        442.0572052001953
+      ],
+      "ClipBounds": [
+        314.0,
+        344.50360107421875,
+        557.1752014160156,
+        442.0572052001953
+      ],
+      "Kids": [
+        {
+          "Bounds": [
+            314.0,
+            432.6036071777344,
+            320.3543243408203,
+            442.0572052001953
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 1,
+          "Path": "//Document/Sect[7]/P[4]",
+          "Text": "To adjust nominalfigures for inflation, multiply the nominalfigure by the ratio ofthe price indexvalue in the target year to theprice indexvalue in the baseyear, as shown in ",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            349.8399963378906,
+            399.75360107421875,
+            390.5,
+            411.4499969482422
+          ],
+          "ClipBounds": [
+            349.8399963378906,
+            399.75360107421875,
+            390.5,
+            411.4499969482422
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PS",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PS",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPS-BoldMT",
+            "subset": false,
+            "weight": 700
+          },
+          "HasClip": true,
+          "Page": 1,
+          "Path": "//Document/Sect[7]/P[4]/Reference",
+          "Reference": "Page 1",
+          "Text": "Figure 2",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            390.8999938964844,
+            399.75360107421875,
+            557.1752014160156,
+            409.2071990966797
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 1,
+          "Path": "//Document/Sect[7]/P[4]",
+          "Text": ". Forexample, median household income in 1990 (the base year)was $29,943 in nominalterms.To determine the equivalent income in terms of purchasing powerfor2019 (the target year)usingCPI, multiply $29,943 by the ratio ofCPI in 2019 (256) to the CPI in 1990 (131), which comes out to about $58,515. ",
+          "TextSize": 10.399993896484375
+        }
+      ],
+      "Lang": "en",
+      "Page": 1,
+      "Path": "//Document/Sect[7]/P[4]",
+      "attributes": {
+        "LineHeight": 11,
+        "SpaceAfter": 11.5
+      }
+    },
+    {
+      "Bounds": [
+        314.0,
+        212.38360595703125,
+        556.5924072265625,
+        331.52720642089844
+      ],
+      "ClipBounds": [
+        314.0,
+        212.38360595703125,
+        556.5924072265625,
+        331.52720642089844
+      ],
+      "Font": {
+        "alt_family_name": "Titlingmes New Roman PSMT",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Titlingmes New Roman PSMT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPSMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "Page": 1,
+      "Path": "//Document/Sect[7]/P[5]",
+      "Text": "As discussedpreviously,there are a numberofdifferent price indices, and within those indices more specific deflators are available to make inflation adjustments. It is important to usethe mostrelevant indexforthe subject being researched.Forexample, when looking at corporate revenues in the UnitedStates, it would be advisable to use the ProducerPrice Index,which uses a market basket consisting ofthe price ofgoods and services sold by domestic producers, as opposedto theCPI, which is designed toreflect the goods andservices purchasedby the typicalhousehold. ",
+      "TextSize": 10.399993896484375,
+      "attributes": {
+        "LineHeight": 11,
+        "SpaceAfter": 7.125
+      }
+    },
+    {
+      "Bounds": [
+        314.0,
+        189.250244140625,
+        378.9714660644531,
+        201.06207275390625
+      ],
+      "ClipBounds": [
+        314.0,
+        189.250244140625,
+        378.9714660644531,
+        201.06207275390625
+      ],
+      "Font": {
+        "alt_family_name": "Gill Sans",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Gill Sans MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ABCDEE+GillSansMT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "Page": 1,
+      "Path": "//Document/Sect[8]/H1",
+      "Text": "Resources ",
+      "TextSize": 12.824996948242188,
+      "attributes": {
+        "LineHeight": 15.375
+      }
+    },
+    {
+      "Bounds": [
+        314.0,
+        145.90359497070312,
+        557.2880096435547,
+        189.0072021484375
+      ],
+      "ClipBounds": [
+        314.0,
+        145.90359497070312,
+        557.2880096435547,
+        189.0072021484375
+      ],
+      "Font": {
+        "alt_family_name": "Titlingmes New Roman PSMT",
+        "embedded": false,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Titlingmes New Roman PSMT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "TimesNewRomanPSMT",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "Page": 1,
+      "Path": "//Document/Sect[8]/P",
+      "Text": "The Bureau of LaborStatistics and the BureauofEconomic Analysis both createvarious price indices,which are available at http://www.bls.gov/bls/inflation.htmand https://www.bea.gov/data/prices-inflation, respectively. ",
+      "TextSize": 10.399993896484375,
+      "attributes": {
+        "LineHeight": 11.25,
+        "SpaceAfter": 10.5
+      }
+    },
+    {
+      "Bounds": [
+        314.0,
+        113.08360290527344,
+        544.6719207763672,
+        133.7476043701172
+      ],
+      "ClipBounds": [
+        314.0,
+        113.08360290527344,
+        544.6719207763672,
+        133.7476043701172
+      ],
+      "Kids": [
+        {
+          "Bounds": [
+            314.0,
+            124.28359985351562,
+            317.46311950683594,
+            133.73719787597656
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 1,
+          "Path": "//Document/Sect[8]/P[2]",
+          "Text": "(",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            317.1999969482422,
+            124.28359985351562,
+            337.78160095214844,
+            133.7476043701172
+          ],
+          "ClipBounds": [
+            317.1999969482422,
+            124.28359985351562,
+            337.78160095214844,
+            133.7476043701172
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PS",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PS",
+            "font_type": "TrueType",
+            "italic": true,
+            "monospaced": false,
+            "name": "TimesNewRomanPS-ItalicMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 1,
+          "Path": "//Document/Sect[8]/P[2]/Span",
+          "Text": "Note",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            338.0500030517578,
+            124.28359985351562,
+            540.8811950683594,
+            133.73719787597656
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 1,
+          "Path": "//Document/Sect[8]/P[2]",
+          "Text": ":This In Focus was originally authoredby Jeffrey Stupak,formerCRS Analyst in Macroeconomic Policy.) ",
+          "TextSize": 10.399993896484375
+        }
+      ],
+      "Lang": "en",
+      "Page": 1,
+      "Path": "//Document/Sect[8]/P[2]",
+      "attributes": {
+        "LineHeight": 11.125,
+        "SpaceAfter": 11.5
+      }
+    },
+    {
+      "Bounds": [
+        314.0,
+        89.05360412597656,
+        539.6667938232422,
+        98.5072021484375
+      ],
+      "ClipBounds": [
+        314.0,
+        89.05360412597656,
+        539.6667938232422,
+        98.5072021484375
+      ],
+      "Kids": [
+        {
+          "Bounds": [
+            314.0,
+            89.05360412597656,
+            395.8323974609375,
+            98.34080505371094
+          ],
+          "ClipBounds": [
+            314.0,
+            89.05360412597656,
+            395.8323974609375,
+            98.34080505371094
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PS",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PS",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPS-BoldMT",
+            "subset": false,
+            "weight": 700
+          },
+          "HasClip": true,
+          "Page": 1,
+          "Path": "//Document/Sect[8]/P[3]/Span",
+          "Text": "Lida R. Weinstock",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            396.5299987792969,
+            89.05360412597656,
+            524.9595947265625,
+            98.5072021484375
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 1,
+          "Path": "//Document/Sect[8]/P[3]",
+          "Text": ", Analyst in Macroeconomic Policy ",
+          "TextSize": 10.399993896484375
+        }
+      ],
+      "Lang": "en",
+      "Page": 1,
+      "Path": "//Document/Sect[8]/P[3]",
+      "attributes": {
+        "LineHeight": 12.5,
+        "SpaceAfter": 7.125
+      }
+    },
+    {
+      "Bounds": [
+        522.2799987792969,
+        71.6510009765625,
+        557.5504150390625,
+        79.75579833984375
+      ],
+      "ClipBounds": [
+        522.2799987792969,
+        71.6510009765625,
+        557.5504150390625,
+        79.75579833984375
+      ],
+      "Font": {
+        "alt_family_name": "Gill Sans",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Gill Sans MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ABCDEE+GillSansMT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "Page": 1,
+      "Path": "//Document/Sect[8]/P[4]",
+      "Text": "IF10477 ",
+      "TextSize": 8.800003051757812,
+      "attributes": {
+        "LineHeight": 10.5,
+        "TextAlign": "End"
+      }
+    },
+    {
+      "Bounds": [
+        57.67500305175781,
+        677.4033050537109,
+        133.3485870361328,
+        692.0590972900391
+      ],
+      "ClipBounds": [
+        57.67500305175781,
+        677.4033050537109,
+        133.3485870361328,
+        692.0590972900391
+      ],
+      "Font": {
+        "alt_family_name": "Palatino",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Palatino Linotype",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "ABCDEE+PalatinoLinotype-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "Page": 2,
+      "Path": "//Document/Sect[9]/H1",
+      "Text": "Disclaimer ",
+      "TextSize": 14.425003051757812,
+      "attributes": {
+        "LineHeight": 17.25,
+        "SpaceAfter": 6.625
+      }
+    },
+    {
+      "Bounds": [
+        57.67500305175781,
+        584.7536010742188,
+        557.0496826171875,
+        671.0872039794922
+      ],
+      "ClipBounds": [
+        57.67500305175781,
+        584.7536010742188,
+        557.0496826171875,
+        671.0872039794922
+      ],
+      "Kids": [
+        {
+          "Bounds": [
+            57.67500305175781,
+            661.6336059570312,
+            140.21987915039062,
+            671.0872039794922
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 2,
+          "Path": "//Document/Sect[9]/P",
+          "Text": "This document was preparedby theCongressionalResearch Service(CRS). CRS serves as nonpartisan sharedstaff to congressionalcommittees and Members ofCongress. It operates solely at thebehest of andunder thedirection ofCongress. Information in a CRS Report should not be relied uponforpurposes otherthanpublic understandingofinformation that has ",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            57.67500305175781,
+            627.9828033447266,
+            553.2350006103516,
+            639.5892028808594
+          ],
+          "ClipBounds": [
+            57.67500305175781,
+            627.9828033447266,
+            553.2350006103516,
+            639.5892028808594
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": true,
+            "encoding": "Identity-H",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "CIDFontType2",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 2,
+          "Path": "//Document/Sect[9]/P/Span",
+          "Text": "been providedby CRSto Members ofCongressin connection with CRS\u2019s institutionalrole.CRS Reports,as a workofthe ",
+          "TextSize": 10.399993896484375
+        },
+        {
+          "Bounds": [
+            57.67500305175781,
+            617.5836029052734,
+            264.9261169433594,
+            627.0372009277344
+          ],
+          "Font": {
+            "alt_family_name": "Titlingmes New Roman PSMT",
+            "embedded": false,
+            "encoding": "WinAnsiEncoding",
+            "family_name": "Titlingmes New Roman PSMT",
+            "font_type": "TrueType",
+            "italic": false,
+            "monospaced": false,
+            "name": "TimesNewRomanPSMT",
+            "subset": false,
+            "weight": 400
+          },
+          "HasClip": true,
+          "Page": 2,
+          "Path": "//Document/Sect[9]/P",
+          "Text": "United States Government, are notsubject to copyright protection in the UnitedStates. Any CRS Report may be reproducedand distributedin its entiretywithout permissionfromCRS. However, as a CRS Report may include copyrighted images ormaterialfrom a third party, you may needto obtain the permission ofthe copyright holderifyou wish to copy orotherwiseuse copyrightedmaterial. ",
+          "TextSize": 10.399993896484375
+        }
+      ],
+      "Lang": "en",
+      "Page": 2,
+      "Path": "//Document/Sect[9]/P",
+      "attributes": {
+        "LineHeight": 11,
+        "SpaceAfter": 18
+      }
+    }
+  ],
+  "pages": [
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          612.0,
+          792.0
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          612.0,
+          792.0
+        ]
+      },
+      "height": 792.0,
+      "page_number": 0,
+      "rotation": 0,
+      "width": 612.0
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          612.0,
+          792.0
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          612.0,
+          792.0
+        ]
+      },
+      "height": 792.0,
+      "page_number": 1,
+      "rotation": 0,
+      "width": 612.0
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          612.0,
+          792.0
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          612.0,
+          792.0
+        ]
+      },
+      "height": 792.0,
+      "page_number": 2,
+      "rotation": 0,
+      "width": 612.0
+    }
+  ]
+}
